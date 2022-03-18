@@ -1,1 +1,1 @@
-"This is FileB -Version1" - Github --Testing Branches
+"This is FileB -Version1" - Merged Files.
